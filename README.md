@@ -10,12 +10,15 @@
 newbing-画图
 </iframe> 
 
+
 <iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="500" height="400">
 联网搜索
 </iframe> 
+
 <iframe src="https://ai.w3school.top/claude/" width="500" height="400">
 Claude网页版
 </iframe> 
+
 <iframe src="https://gptbot2.icu" width="500" height="400">
 GPT4
 </iframe> 
