@@ -21,14 +21,26 @@
         <img src="https://img.shields.io/badge/QQ:1002569303-green.svg" alt="1002569303" />
     </a>
 ## Maynor的大模型网站
-<input type="text">
-<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="400" title="newbing-画图"></iframe>  
 
-<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="400" title="联网搜索"></iframe>  
+<figure>
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="400"></iframe>  
+<figcaption>newbing-画图</figcaption>
+</figure>
 
-<iframe src="https://ai.w3school.top/claude/" width="400" height="400" title="Claude网页版"></iframe>  
+<figure> 
+<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="400"></iframe>  
+<figcaption>联网搜索</figcaption> 
+</figure>
 
-<iframe src="https://gptbot2.icu" width="400" height="400" title="GPT4"></iframe>
+<figure>
+<iframe src="https://ai.w3school.top/claude/" width="400" height="400"></iframe>  
+<figcaption>Claude网页版</figcaption>  
+</figure>
+
+<figure>
+<iframe src="https://gptbot2.icu" width="400" height="400"></iframe>  
+<figcaption>GPT4</figcaption>
+</figure> 
 
 ### [个人知识库](http://125.94.145.128:3000/)
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
@@ -36,16 +48,4 @@
 ### [通义千问](https://tongyi.aliyun.com/)
 
 
-<script>
-let input = document.querySelector('input');
 
-function setIframeContent() {
-  let inputValue = input.value;
-  let iframe1 = document.querySelector('iframe');
-  let doc1 = iframe1.contentWindow.document;
-  doc1.body.innerHTML = inputValue;
-  // 同样设置其他3个iframe内容  
-}
-
-input.addEventListener('input', setIframeContent);
-</script>
