@@ -6,20 +6,19 @@
     </a>
 ## Maynor的大模型网站
 
-<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="300">
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="500" height="400">
 newbing-画图
 </iframe> 
 
-<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="300">
+<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="500" height="400">
 联网搜索
 </iframe> 
-<iframe src="https://ai.w3school.top/claude/" width="400" height="300">
+<iframe src="https://ai.w3school.top/claude/" width="500" height="400">
 Claude网页版
 </iframe> 
-<iframe src="https://gptbot2.icu" width="400" height="300">
+<iframe src="https://gptbot2.icu" width="500" height="400">
 GPT4
 </iframe> 
-
 ### [个人知识库](http://125.94.145.128:3000/)
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
 ### [文心一言](https://yiyan.baidu.com/welcome)
