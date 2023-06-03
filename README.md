@@ -26,7 +26,7 @@ GPT4
 ### [通义千问](https://tongyi.aliyun.com/)
 
 <style>
-/* 大于等于 1200px 屏幕 */  
+/* 大于等于 1000px 屏幕 */  
 @media (min-width: 1200px) { 
   iframe {
     width: 400px;
@@ -34,7 +34,7 @@ GPT4
   }
 }
 /* 小于 1200px 屏幕 */
-@media (max-width: 1199px) { 
+@media (max-width: 999px) { 
   iframe {
     width: 75%;
     height: 75%;
