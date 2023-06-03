@@ -23,22 +23,22 @@
 ## Maynor的大模型网站
 
 <figure>
-<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="400"></iframe>  
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="300"></iframe>  
 <figcaption>newbing-画图</figcaption>
 </figure>
 
 <figure> 
-<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="400"></iframe>  
+<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="300"></iframe>  
 <figcaption>联网搜索</figcaption> 
 </figure>
 
 <figure>
-<iframe src="https://ai.w3school.top/claude/" width="400" height="400"></iframe>  
+<iframe src="https://ai.w3school.top/claude/" width="400" height="300"></iframe>  
 <figcaption>Claude网页版</figcaption>  
 </figure>
 
 <figure>
-<iframe src="https://gptbot2.icu" width="400" height="400"></iframe>  
+<iframe src="https://gptbot2.icu" width="400" height="300"></iframe>  
 <figcaption>GPT4</figcaption>
 </figure> 
 
