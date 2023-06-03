@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/badge/QQ:1002569303-green.svg" alt="1002569303" />
     </a>
 ## Maynor的大模型网站
-
+<input type="text">
 <iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="400" title="newbing-画图"></iframe>  
 
 <iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="400" title="联网搜索"></iframe>  
@@ -35,3 +35,16 @@
   }
 }
 </style>
+<script>
+let input = document.querySelector('input');
+
+function setIframeContent() {
+  let inputValue = input.value;
+  let iframe1 = document.querySelector('iframe');
+  let doc1 = iframe1.contentWindow.document;
+  doc1.body.innerHTML = inputValue;
+  // 同样设置其他3个iframe内容  
+}
+
+input.addEventListener('input', setIframeContent);
+</script>
