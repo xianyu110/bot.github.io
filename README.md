@@ -29,8 +29,8 @@ GPT4
 /* 大于等于 1200px 屏幕 */  
 @media (min-width: 1200px) { 
   iframe {
-    width: 600px;
-    height: 512px;
+    width: 400px;
+    height: 400px;
   }
 }
 /* 小于 1200px 屏幕 */
