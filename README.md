@@ -6,17 +6,17 @@
     </a>
 ## Maynor的大模型网站
 
-<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="450" height="450">
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="400">
 newbing-画图
 </iframe> 
 
-<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="450" height="450">
+<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="400">
 联网搜索
 </iframe> 
-<iframe src="https://ai.w3school.top/claude/" width="450" height="450">
+<iframe src="https://ai.w3school.top/claude/" width="400" height="400">
 Claude网页版
 </iframe> 
-<iframe src="https://gptbot2.icu" width="450" height="450">
+<iframe src="https://gptbot2.icu" width="400" height="400">
 GPT4
 </iframe> 
 
@@ -24,3 +24,20 @@ GPT4
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
 ### [文心一言](https://yiyan.baidu.com/welcome)
 ### [通义千问](https://tongyi.aliyun.com/)
+
+<style>
+/* 大于等于 1200px 屏幕 */  
+@media (min-width: 1200px) { 
+  iframe {
+    width: 600px;
+    height: 512px;
+  }
+}
+/* 小于 1200px 屏幕 */
+@media (max-width: 1199px) { 
+  iframe {
+    width: 75%;
+    height: 75%;
+  }
+}
+</style>
