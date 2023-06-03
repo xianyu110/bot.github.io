@@ -5,19 +5,20 @@
         <img src="https://img.shields.io/badge/QQ:1002569303-green.svg" alt="1002569303" />
     </a>
 ## Maynor的大模型网站
-<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="600" height="512"></iframe>  
-newbing-画图
-</iframe>
 
-<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="600" height="512"></iframe>
-联网搜索  
-</iframe>
-<iframe src="https://ai.w3school.top/claude/" width="600" height="512"></iframe>
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="450" height="450">
+newbing-画图
+</iframe> 
+
+<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="450" height="450">
+联网搜索
+</iframe> 
+<iframe src="https://ai.w3school.top/claude/" width="450" height="450">
 Claude网页版
 </iframe> 
-<iframe src="https://gptbot2.icu" width="600" height="512"></iframe>  
+<iframe src="https://gptbot2.icu" width="450" height="450">
 GPT4
-</iframe>
+</iframe> 
 
 ### [个人知识库](http://125.94.145.128:3000/)
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
