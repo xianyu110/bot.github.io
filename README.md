@@ -1,4 +1,4 @@
-## maynor的大模型网站: 
+## Maynor的大模型网站: 
 ### [newbing-画图](https://chat.jja8.cn/web/NewBingGoGo.html)
 ### [联网搜索](https://chat2.jinshutuan.com/#/chat/1685520884858)
 ### [Claude网页版](https://ai.w3school.top/claude/)
