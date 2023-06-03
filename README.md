@@ -30,7 +30,7 @@ GPT4
 @media (min-width: 1200px) { 
   iframe {
     width: 400px;
-    height: 400px;
+    height: 300px;
   }
 }
 /* 小于 1200px 屏幕 */
