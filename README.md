@@ -8,10 +8,10 @@
 ### 平平无奇的缝合怪
 
 
-<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="600" title="newbing-画图"></iframe>  
-<iframe src="https://ai.w3school.top/claude/" width="400" height="600" title="Claude网页版"></iframe>  
-<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="600" title="联网搜索"></iframe>  
-<iframe src="https://gptbot2.icu" width="400" height="600" title="GPT4"></iframe>
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" title="newbing-画图"></iframe>  
+<iframe src="https://ai.w3school.top/claude/" title="Claude网页版"></iframe>  
+<iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858"  title="联网搜索"></iframe>  
+<iframe src="https://gptbot2.icu" title="GPT4"></iframe>
 
 ### [个人知识库](http://125.94.145.128:3000/)
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
@@ -23,7 +23,7 @@
 @media (min-width: 1200px) { 
   iframe {
     width: 400px;
-    height: 300px;
+    height: 600px;
   }
 }
 /* 小于 1200px 屏幕 */
