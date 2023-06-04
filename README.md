@@ -23,14 +23,14 @@
 @media (min-width: 1200px) { 
   iframe {
     width: 400px;
-    height: 700px;
+    height: 650px;
   }
 }
 /* 小于 1200px 屏幕 */
 @media (max-width: 999px) { 
   iframe {
     width: 100%;
-    height: 75%;
+    height: 120%;
   }
 }
 </style>
