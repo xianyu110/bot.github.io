@@ -29,7 +29,7 @@
 /* 小于 1200px 屏幕 */
 @media (max-width: 999px) { 
   iframe {
-    width: 75%;
+    width: 100%;
     height: 75%;
   }
 }
