@@ -16,35 +16,6 @@
 
 <iframe src="https://gptbot2.icu" width="400" height="650" title="GPT4"></iframe> 
 
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>GPT问答</title>
-</head>
-<body>
-<h1>GPT问答Demo</h1> 
-<p>输入你的问题或句子,回车提交:</p>
-<input id="prompt">
-<button onclick="sendQuery()">发送</button>  
-<p id="response"></p>
-
-<script>
-function sendQuery() {
-  var prompt = document.getElementById("prompt").value;
-  var url = "https://lgjkdppecfcr.cloud.sealos.io/ask?prompt=" + prompt + "&model=forefront";
-fetch(url, {
-  mode: 'no-cors'  // 禁用跨域检查
-})
-.then(response => response.text())
-.then(data => {
-  document.getElementById("response").innerText = data;
-})
-}
-</script>
-</body>
-</html>
-
 
 ### [个人知识库](http://125.94.145.128:3000/)
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
