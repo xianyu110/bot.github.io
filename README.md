@@ -9,7 +9,7 @@
 
 
 <iframe src="https://www.gptbot5.icu/web/index.html#/" width="400" height="650" title="newbing-画图"></iframe>  
-https://www.gptbot5.icu/
+
 <iframe src="https://ai.w3school.top/claude/" width="400" height="650" title="Claude网页版"></iframe>   
 
 <iframe src="https://chat2.jinshutuan.com/#/chat/1685520884858" width="400" height="650" title="联网搜索"></iframe>
