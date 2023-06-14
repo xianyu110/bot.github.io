@@ -18,9 +18,8 @@
 
 <iframe src="https://gptbot4.icu" width="400" height="650" title="GPT3"></iframe> 
 
-<iframe src="https://gptbot5.icu" width="400" height="650" title="GPT4"></iframe> 
+<iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="650" title="GPT4"></iframe> 
 
-### [NewBing](https://chat.jja8.cn/web/NewBingGoGo.html)
 ### [个人知识库](http://125.94.145.128:3000/)
 ### [讯飞星火](https://xinghuo.xfyun.cn/desk)
 ### [文心一言](https://yiyan.baidu.com/welcome)
