@@ -10,7 +10,7 @@
 <iframe src="https://gptbot4.icu" width="400" height="650" title="GPT3"></iframe> 
 <iframe src="https://www.gptbot6.icu/web/index.html#/" width="400" height="650" title="newbing-画图"></iframe>  
 <iframe src="https://gptbot2.icu" width="400" height="650" title="GPT4"></iframe> 
-<iframe src="https://ai.w3school.top/claude/" width="400" height="650" title="Claude网页版"></iframe>   
+<iframe src="https://claude.ai/chat/f9026a77-0cfd-4461-b047-a396163984b5" width="400" height="650" title="Claude网页版"></iframe>   
 <iframe src="https://fastgpt.run/chat/share?shareId=6475642ce4b4dbbdc5611092" width="400" height="650" title="知识库"></iframe>
 <iframe src="https://chat.jja8.cn/web/NewBingGoGo.html" width="400" height="650" title="GPT4"></iframe> 
 
