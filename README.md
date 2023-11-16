@@ -8,6 +8,7 @@
 ### 平平无奇的缝合怪
 
 <iframe src="https://gptbot4.icu" width="400" height="650" title="GPT3"></iframe> 
+
 <iframe src="https://www.gptbot6.icu/" width="400" height="650" title="newbing-画图"></iframe>  
 
 
