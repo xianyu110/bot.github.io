@@ -11,6 +11,8 @@
 
 <iframe src="https://www.gptbot6.icu/" width="400" height="650" title="newbing-画图"></iframe>  
 
+<iframe src="http://125.94.145.128:3000/chat/share?shareId=9opfooxuh6vfjektsn1bxl0m" width="400" height="650" title="newbing-画图"></iframe>  
+
 
 
 ### [个人知识库](http://125.94.145.128:3000/)
